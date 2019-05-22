@@ -17,6 +17,6 @@ The class project for was to read in the ["Human Activity Recognition Using Smar
 
 **Run the R script ([run_analysis.R](run_analysis.R)).** This script requires the a package [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
 
-**The output of the R script is the "tidy" data set, [tidy.csv](tidy.csv).**
+**The output of the R script is the "tidy" data set, [tidy_data.txt](tidy_data.txt).**
 
 Further information of these data and the analysis is in the [code book](CodeBook.md).
